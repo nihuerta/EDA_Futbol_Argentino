@@ -207,7 +207,7 @@ Cada función está **completamente documentada** con docstrings que explican la
 ## 👤 Autor
 
 **Nicolás Huerta**  
-Estudiante de Ciencia de Datos · UADE  
+Estudiante de Ingeniería en Informática · UADE  
 GitHub: [@nihuerta](https://github.com/nihuerta)
 
 ---
